@@ -7,3 +7,5 @@ To run this on the command line you use one of two commands
 \# > ruby status.rb "http://www.domain.com/"
 
 \# > ./status.rb "http://www.domain.com/"
+
+If this fails to run on your machine please make sure the shebang is properly set for your environment.
