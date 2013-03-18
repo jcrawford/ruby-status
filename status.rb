@@ -17,7 +17,7 @@ begin
     sleep(60)
   end
 rescue Exception => e
-  puts "Invalid URL Specified"
-  puts "Exception Message: " + e.message
+  puts "An Exception Was Thrown"
+  puts "Message: " + e.message
 end
 
